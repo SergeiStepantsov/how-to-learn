@@ -4,4 +4,10 @@
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    transition: 0.5s;
+    opacity: 1;
+  }
+
+  .logo:hover{
+    opacity: 0.5;
   }
