@@ -1,13 +1,13 @@
 .logo {
-    width: 228px;
-    height: 32px;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    transition: 0.5s;
-    opacity: 1;
-  }
+  width: 228px;
+  height: 32px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: 0.5s;
+  opacity: 1;
+}
 
-  .logo:hover{
-    opacity: 0.5;
-  }
+.logo:hover {
+  opacity: 0.5;
+}
