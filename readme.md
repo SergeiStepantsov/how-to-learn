@@ -14,5 +14,5 @@
 * Интегрировать форму обратной связи;
 * Адаптировать сайт для корректного отображения на разных утройствах.
 
-[Ссылка на проект]([https://sergeistepantsov.github.io/how-to-learn/])
+[Ссылка на проект](https://sergeistepantsov.github.io/how-to-learn/)
 ---
